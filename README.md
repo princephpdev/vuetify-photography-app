@@ -1,4 +1,4 @@
-# wedding-vuetify
+# Vuetify Photography App
 
 > My lovely Nuxt.js project
 
