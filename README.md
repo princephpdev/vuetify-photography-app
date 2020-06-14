@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # My Vuetify Photography App
+=======
+# Vuetify Photography App
+>>>>>>> 18fb4ef3425a1b0850976f2d9587c8dbbb3e01ca
 
 > My lovely Nuxt.js project
 
